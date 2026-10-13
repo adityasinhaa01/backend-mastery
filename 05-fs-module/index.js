@@ -10,6 +10,7 @@ if (!fs.existsSync(dataFolder)){
 
 
 //Synchronous File Operations
+
 const filePath = path.join(dataFolder, "file.txt");
 
 fs.writeFileSync(filePath, "Hello Node.js");
@@ -23,4 +24,27 @@ console.log(content1);
 
 
 //Asynchronous File Operations
+
+const asyncFilePath = path.join(dataFolder, 'asyncFile.txt');
+
+fs.writeFile(asyncFilePath, "Hello Node Async", (err) => {
+  if(err) throw err;
+  console.log("File written successfully!");
+})
+
+const asyncContent = fs.readFile(asyncFilePath, "UTF8", (err, data) => {
+  if (err) throw err;
+  console.log("File Content:");
+  console.log(data);
+});
+
+fs.appendFile(asyncFilePath, "\nAsync Nigga", (err) => {
+  if (err) throw err;
+  console.log('New line added');
+});
+const asyncContent1 = fs.readFile(asyncFilePath, "UTF8", (err, data) => {
+  if (err) throw err;
+  console.log("File Content:");
+  console.log(data);
+})
 

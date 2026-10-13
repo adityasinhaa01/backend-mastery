@@ -1,0 +1,1 @@
+console.log(firstModule.div(25,0));
