@@ -16,20 +16,20 @@ My journey to learn Node.js and backend development through structured courses, 
 
 ### Part 1 — Node.js, Express & MongoDB
 
-- [ ] Intro & Demo
-- [ ] Installing Node.js
-- [ ] Running JavaScript Files with Node.js
-- [ ] Node Module System
-- [ ] npm
-- [ ] Path Module
-- [ ] File System
-- [ ] HTTP Module
-- [ ] Callbacks / Callback Hell
-- [ ] Promises
-- [ ] Async/Await
-- [ ] Event Emitter
-- [ ] Express.js
-- [ ] EJS
+- [✅] Intro & Demo
+- [✅] Installing Node.js
+- [✅] Running JavaScript Files with Node.js
+- [✅] Node Module System
+- [✅] npm
+- [✅] Path Module
+- [✅] File System
+- [✅] HTTP Module
+- [✅] Callbacks / Callback Hell
+- [✅] Promises
+- [✅] Async/Await
+- [✅] Event Emitter
+- [✅] Express.js
+- [✅] EJS
 - [ ] REST API
 - [ ] MongoDB and Mongoose Basics
 - [ ] Book Store API
