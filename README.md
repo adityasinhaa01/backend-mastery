@@ -6,9 +6,9 @@ My journey to learn Node.js and backend development through structured courses, 
 
 **Overall Progress: 0%**
 
-`[🟢🔘🔘🔘🔘🔘🔘🔘🔘🔘] 0%`
+`[🟢🔘🔘🔘🔘🔘🔘🔘🔘🔘] 13.43%`
 
-**Completed:** 0 topics
+**Completed:** 14 topics
 
 *Update the progress bar and completed count manually as you complete the checklist.*
 
