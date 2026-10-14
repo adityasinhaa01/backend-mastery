@@ -6,7 +6,7 @@ My journey to learn Node.js and backend development through structured courses, 
 
 **Overall Progress: 0%**
 
-`[░░░░░░░░░░] 0%`
+`[🟢🔘🔘🔘🔘🔘🔘🔘🔘🔘] 0%`
 
 **Completed:** 0 topics
 
