@@ -1,0 +1,11 @@
+$kind: http-request
+url: http://localhost:3000/update/2
+method: PUT
+body:
+  type: json
+  content: |-
+    {
+        title:
+        author:
+    }
+order: 5000
