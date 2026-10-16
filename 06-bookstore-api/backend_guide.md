@@ -1,0 +1,5 @@
+- Step 1: Server.js structure => DOTENV and Server setup
+- Step 2: DB.js connection
+- Step 3: DB schema and model
+- Step 4: Routes using Router
+- Step 5: Import routes in server.js and set it as a middleware
