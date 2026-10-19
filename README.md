@@ -6,9 +6,9 @@ My journey to learn Node.js and backend development through structured courses, 
 
 **Overall Progress:**
 
-`[🟢🔘🔘🔘🔘🔘🔘🔘🔘🔘] 16.34%`
+`[🟢🔘🔘🔘🔘🔘🔘🔘🔘🔘] 17.31%`
 
-**Completed:** 16 topics
+**Completed:** 18 topics
 
 *Update the progress bar and completed count manually as you complete the checklist.*
 
@@ -33,7 +33,7 @@ My journey to learn Node.js and backend development through structured courses, 
 - ✅ REST API
 - ✅ MongoDB and Mongoose Basics
 - ✅ Book Store API
-- [ ] Authentication and Authorization
+- ✅ Authentication and Authorization
 - [ ] File Upload
 - [ ] Change Password / Delete Image / Sorting / Pagination
 - [ ] Intermediate MongoDB & Aggregation
